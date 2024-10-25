@@ -1,2 +1,4 @@
 get the user daqta
 process to data
+
+create and avatar for customer
